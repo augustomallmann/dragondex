@@ -7,6 +7,10 @@ Este projeto foi construído utilizando [Create React App](https://github.com/fa
 
 Neste projeto você pode utilizar os seguintes scripts:
 
+### `yarn`
+
+Ao clonar este repositório, você deve rodar o comando 'yarn' para que as dependências sejam instaladas. Após isto, deve ser rodado 'yarn start'. O arquivo das variáveis de ambiente está neste repositório pois serão necessárias para conectar a base de dados e testar a aplicação.
+
 ### `yarn start`
 
 Inicia o projeto no modo desenvolvimento.\
