@@ -27,7 +27,7 @@ Compila a aplicação para produção na pasta `build`\
 ### :fire: Login
 Para fazer login na versão de desenvolvimento, você pode criar suas próprias credenciais ou utilizar a seguinte:\
 Usuário: demo@demo.com\
-Senha: 123456\
+Senha: 123456
 
 ### :rocket: Tecnologias Usadas
 
