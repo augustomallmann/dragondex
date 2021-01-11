@@ -1,0 +1,40 @@
+.header-one{
+  margin-bottom: 24px;
+  font-size: 34px;
+  text-transform: uppercase;
+  line-height: 42px;
+  font-weight: 100;
+  color: $text-color-light;
+}
+.description-text{
+  font-size: 18px;
+  line-height: 24px;
+  letter-spacing: 1px;
+  font-weight: 100;  
+  color: $text-color-light;
+}
+.bg-dark-custom{
+  background-color: #222831;
+}
+.bg-light-custom{
+  background-color: #ECECEC;
+
+}
+.height-100{
+  padding: 100px 0;
+  min-height: 100vh;
+}
+
+/* h1{
+  margin-bottom: 24px;
+  font-size: 48px;
+  text-transform: uppercase;
+  line-height: 1.1;
+  font-weight: 300;
+  color: #f7f8fa;
+}
+p{
+  margin-bottom: 35px;
+  font-size: 18px;
+  line-height: 24px;  color: #f7f8fa;
+} */
